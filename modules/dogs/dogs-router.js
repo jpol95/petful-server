@@ -7,11 +7,11 @@ const People = require('../people/people.service')
 const router = express.Router()
 
 router.get('/', (req, res) => {
-    return Pets.get().cat;
+    return Pets.get().dog;
   })  
 
 router.delete('/', json, (req, res) => {
-  return Pets.dequeue("cats");
+  return Pets.dequeue("dogs");
 })
 
 module.exports = router
