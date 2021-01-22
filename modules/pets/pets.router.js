@@ -11,7 +11,9 @@ router.get('/', (req, res) => {
 })
 
 router.delete('/', json, (req, res) => {
-  // Remove a pet from adoption.
+const category = Math.round(Math.random()) === 1 ? "cats" : "dogs";
+Pets.dequeue(category);
+res.status(204).end();
 })
 
 module.exports = router

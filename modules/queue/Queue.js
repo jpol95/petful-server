@@ -33,7 +33,7 @@ dequeue() {
  return node.value;
 }
   show() {
-    return this.first;
+    return this.first.value;
   }
 
   all() {
