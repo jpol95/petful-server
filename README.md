@@ -1,8 +1,8 @@
 # Petful Server
 
-Link to server: https://agile-wildwood-39107.herokuapp.com/api \n
-Link to client repo: https://github.com/jpol95/petful-client
-Link to vercel: https://petful-client-template.jpol95.vercel.app/
+Link to server: https://agile-wildwood-39107.herokuapp.com/api <br />
+Link to client repo: https://github.com/jpol95/petful-client <br />
+Link to vercel: https://petful-client-template.jpol95.vercel.app/ <br />
 
 The backend of the ap utilizes heroku for deployment and Node/Express for Queue management and endpoints. 
 
