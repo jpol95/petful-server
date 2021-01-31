@@ -1,9 +1,8 @@
 # Petful Server
 
-Link to server: https://agile-wildwood-39107.herokuapp.com/api <br />
 Link to client repo: https://github.com/jpol95/petful-client <br />
 Link to vercel: https://petful-client-template.jpol95.vercel.app/ <br />
-Link to live app: https://petful-client-template.jpol95.vercel.app/
+Link to live app: https://petful-client-template.jpol95.vercel.app/ <br />
 Link to server repo: https://github.com/jpol95/petful-server
 
 Welcome to petful! This is a website where you can step in line to adopt a cat, dog, or both. The client was built with ReactJS, HTML, CSS, and Javascript and is hosted on vercel. On the backend, Node and Express are used to manage the queue of both users and pets. The purpose of this app is to practice implementing a queue data structure to simulate a live pet adoption process. The app is implemented via a queue built by a singly-linked list, so the multiple datastructures were mastered in the development of this assignment. The user may join the queue and see other 'fake' adoptees in queue as well.
