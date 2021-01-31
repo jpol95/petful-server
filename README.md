@@ -12,8 +12,6 @@ On the introductory page, the user is able to read the mission statement of the 
 
 On the adoption page, the user is able to only see the pets up for adoption at the current time. Once the user enters their name to begin the adoption process, they will see a graphic representing themselves in line. Their icon is green, while the other icons are in black. Once the user works there way to the front of the line, they will see a display of buttons to adopt either the cat, the dog, or both. Once the user clicks adopt, they are shown the pets they have chosen. One cat and/or one dog per user is allowed.
 
-Technology used to develop my app:
-
 Technology used to develop my app: 
 + Front-End Technology
   + React
